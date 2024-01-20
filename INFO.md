@@ -1,3 +1,1 @@
-new line
-new line1
-new line
+>> - add new line, > - replace all line
